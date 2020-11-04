@@ -1,6 +1,5 @@
-
 public class exercicioIR {
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		//Lesson# 11 - Alura Course
 		//O João gostaria de criar um programa sobre Imposto de Renda (IR) e verificou as regras de alíquota. Ele descobriu no site da receita:

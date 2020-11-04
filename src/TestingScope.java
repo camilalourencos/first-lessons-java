@@ -3,7 +3,7 @@ public class TestingScope {
 	public static void main(String[] args) {
 		//testing scope		
 		int age = 32;
-		int tattoos = 5;
+		int tattoos = 0; 
 		boolean coolKid;
 		
 		//boolean coolKid = tattoos >= 4;
